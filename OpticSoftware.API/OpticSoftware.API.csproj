@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.14" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.11">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="3.1.11" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OpticSoftware.Attributes\OpticSoftware.Attributes.csproj" />
+    <ProjectReference Include="..\OpticSoftware.Authentication\OpticSoftware.Authentication.csproj" />
+    <ProjectReference Include="..\OpticSoftware.BLL\OpticSoftware.BLL.csproj" />
+    <ProjectReference Include="..\OpticSoftware.Core\OpticSoftware.Core.csproj" />
+    <ProjectReference Include="..\OpticSoftware.DAL\OpticSoftware.DAL.csproj" />
+    <ProjectReference Include="..\OpticSoftware.Entity\OpticSoftware.Entity.csproj" />
+    <ProjectReference Include="..\OpticSoftware.Models\OpticSoftware.Models.csproj" />
+    <ProjectReference Include="..\OpticSoftware.Security\OpticSoftware.Security.csproj" />
+  </ItemGroup>
+
+
+</Project>

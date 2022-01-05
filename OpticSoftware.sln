@@ -1,0 +1,101 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpticSoftware.API", "OpticSoftware.API\OpticSoftware.API.csproj", "{9F719141-148F-4056-89A9-254BDFBD9695}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpticSoftware.Entity", "OpticSoftware.Entity\OpticSoftware.Entity.csproj", "{D7B76D83-5EBC-40A1-A067-99897B111324}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpticSoftware.DAL", "OpticSoftware.DAL\OpticSoftware.DAL.csproj", "{07A2E0F4-3221-4AFF-832E-EB23561F96B1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpticSoftware.BLL", "OpticSoftware.BLL\OpticSoftware.BLL.csproj", "{7EA4CEBB-EB9C-4BA3-87FE-DFAB1006255E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpticSoftware.Core", "OpticSoftware.Core\OpticSoftware.Core.csproj", "{FCE0478E-BD8C-4C4A-BBB4-710F77F0E640}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpticSoftware.Models", "OpticSoftware.Models\OpticSoftware.Models.csproj", "{9AD1A6D3-D74F-4E5D-93FE-A6568F645B71}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Helpers", "Helpers", "{3DE92D39-3121-4CCC-BF59-E62F138C91BB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpticSoftware.Enums", "OpticSoftware.Enums\OpticSoftware.Enums.csproj", "{21A495EA-DBD1-4C78-8E9A-4595D2C3FFF6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpticSoftware.Security", "OpticSoftware.Security\OpticSoftware.Security.csproj", "{3E0A79AC-9E0A-47F2-B940-E560C98A3427}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpticSoftware.Constans", "OpticSoftware.Constans\OpticSoftware.Constans.csproj", "{CFBF3B0A-38F0-4A41-A53A-77E9C9188F6A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpticSoftware.Extensions", "OpticSoftware.Extensions\OpticSoftware.Extensions.csproj", "{F25FCE14-F6E3-4020-B1A6-D1AE5242D9D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpticSoftware.Authentication", "OpticSoftware.Authentication\OpticSoftware.Authentication.csproj", "{BCB0C373-52A5-4F47-8B3E-66B09DE7D481}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpticSoftware.Attributes", "OpticSoftware.Attributes\OpticSoftware.Attributes.csproj", "{B9814648-67BC-4B69-BC1A-E69D71C79B71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F719141-148F-4056-89A9-254BDFBD9695}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F719141-148F-4056-89A9-254BDFBD9695}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F719141-148F-4056-89A9-254BDFBD9695}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F719141-148F-4056-89A9-254BDFBD9695}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7B76D83-5EBC-40A1-A067-99897B111324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7B76D83-5EBC-40A1-A067-99897B111324}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7B76D83-5EBC-40A1-A067-99897B111324}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7B76D83-5EBC-40A1-A067-99897B111324}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07A2E0F4-3221-4AFF-832E-EB23561F96B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07A2E0F4-3221-4AFF-832E-EB23561F96B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07A2E0F4-3221-4AFF-832E-EB23561F96B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07A2E0F4-3221-4AFF-832E-EB23561F96B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EA4CEBB-EB9C-4BA3-87FE-DFAB1006255E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EA4CEBB-EB9C-4BA3-87FE-DFAB1006255E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EA4CEBB-EB9C-4BA3-87FE-DFAB1006255E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EA4CEBB-EB9C-4BA3-87FE-DFAB1006255E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCE0478E-BD8C-4C4A-BBB4-710F77F0E640}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCE0478E-BD8C-4C4A-BBB4-710F77F0E640}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCE0478E-BD8C-4C4A-BBB4-710F77F0E640}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCE0478E-BD8C-4C4A-BBB4-710F77F0E640}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AD1A6D3-D74F-4E5D-93FE-A6568F645B71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AD1A6D3-D74F-4E5D-93FE-A6568F645B71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AD1A6D3-D74F-4E5D-93FE-A6568F645B71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AD1A6D3-D74F-4E5D-93FE-A6568F645B71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21A495EA-DBD1-4C78-8E9A-4595D2C3FFF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21A495EA-DBD1-4C78-8E9A-4595D2C3FFF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21A495EA-DBD1-4C78-8E9A-4595D2C3FFF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21A495EA-DBD1-4C78-8E9A-4595D2C3FFF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E0A79AC-9E0A-47F2-B940-E560C98A3427}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E0A79AC-9E0A-47F2-B940-E560C98A3427}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E0A79AC-9E0A-47F2-B940-E560C98A3427}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E0A79AC-9E0A-47F2-B940-E560C98A3427}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFBF3B0A-38F0-4A41-A53A-77E9C9188F6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFBF3B0A-38F0-4A41-A53A-77E9C9188F6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFBF3B0A-38F0-4A41-A53A-77E9C9188F6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFBF3B0A-38F0-4A41-A53A-77E9C9188F6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F25FCE14-F6E3-4020-B1A6-D1AE5242D9D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F25FCE14-F6E3-4020-B1A6-D1AE5242D9D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F25FCE14-F6E3-4020-B1A6-D1AE5242D9D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F25FCE14-F6E3-4020-B1A6-D1AE5242D9D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCB0C373-52A5-4F47-8B3E-66B09DE7D481}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCB0C373-52A5-4F47-8B3E-66B09DE7D481}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCB0C373-52A5-4F47-8B3E-66B09DE7D481}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCB0C373-52A5-4F47-8B3E-66B09DE7D481}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9814648-67BC-4B69-BC1A-E69D71C79B71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9814648-67BC-4B69-BC1A-E69D71C79B71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9814648-67BC-4B69-BC1A-E69D71C79B71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9814648-67BC-4B69-BC1A-E69D71C79B71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{21A495EA-DBD1-4C78-8E9A-4595D2C3FFF6} = {3DE92D39-3121-4CCC-BF59-E62F138C91BB}
+		{3E0A79AC-9E0A-47F2-B940-E560C98A3427} = {3DE92D39-3121-4CCC-BF59-E62F138C91BB}
+		{CFBF3B0A-38F0-4A41-A53A-77E9C9188F6A} = {3DE92D39-3121-4CCC-BF59-E62F138C91BB}
+		{F25FCE14-F6E3-4020-B1A6-D1AE5242D9D6} = {3DE92D39-3121-4CCC-BF59-E62F138C91BB}
+		{BCB0C373-52A5-4F47-8B3E-66B09DE7D481} = {3DE92D39-3121-4CCC-BF59-E62F138C91BB}
+		{B9814648-67BC-4B69-BC1A-E69D71C79B71} = {3DE92D39-3121-4CCC-BF59-E62F138C91BB}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {729E58F8-C179-483D-B9AC-530229936024}
+	EndGlobalSection
+EndGlobal

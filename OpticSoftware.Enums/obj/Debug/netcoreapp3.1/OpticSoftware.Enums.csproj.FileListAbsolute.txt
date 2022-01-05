@@ -1,0 +1,9 @@
+C:\Users\Samet Şentürk\source\repos\OpticSoftware\OpticSoftware.Enums\bin\Debug\netcoreapp3.1\OpticSoftware.Enums.deps.json
+C:\Users\Samet Şentürk\source\repos\OpticSoftware\OpticSoftware.Enums\bin\Debug\netcoreapp3.1\OpticSoftware.Enums.dll
+C:\Users\Samet Şentürk\source\repos\OpticSoftware\OpticSoftware.Enums\bin\Debug\netcoreapp3.1\OpticSoftware.Enums.pdb
+C:\Users\Samet Şentürk\source\repos\OpticSoftware\OpticSoftware.Enums\obj\Debug\netcoreapp3.1\OpticSoftware.Enums.csprojAssemblyReference.cache
+C:\Users\Samet Şentürk\source\repos\OpticSoftware\OpticSoftware.Enums\obj\Debug\netcoreapp3.1\OpticSoftware.Enums.AssemblyInfoInputs.cache
+C:\Users\Samet Şentürk\source\repos\OpticSoftware\OpticSoftware.Enums\obj\Debug\netcoreapp3.1\OpticSoftware.Enums.AssemblyInfo.cs
+C:\Users\Samet Şentürk\source\repos\OpticSoftware\OpticSoftware.Enums\obj\Debug\netcoreapp3.1\OpticSoftware.Enums.csproj.CoreCompileInputs.cache
+C:\Users\Samet Şentürk\source\repos\OpticSoftware\OpticSoftware.Enums\obj\Debug\netcoreapp3.1\OpticSoftware.Enums.dll
+C:\Users\Samet Şentürk\source\repos\OpticSoftware\OpticSoftware.Enums\obj\Debug\netcoreapp3.1\OpticSoftware.Enums.pdb

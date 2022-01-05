@@ -1,0 +1,79 @@
+<div
+  class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6"
+  style="margin: 0 auto; margin-top: 5%"
+>
+  <div class="card mb-3">
+    <div class="card-header">
+      <h3>Giriş Formu</h3>
+      <br />
+      <div class="alert alert-warning">
+        Lütfen sisteme kendi hesabınız ile giriş yapınız. Hesapların çoklu
+        kullanımı fark edildiği anda hesabınız kapatılacaktır.
+      </div>
+    </div>
+
+    <div class="card-body">
+      <form [formGroup]="loginForm" (ngSubmit)="onSubmit()">
+        <div class="form-group">
+          <label>Kullanıcı Adı*</label>
+          <input
+            formControlName="username"
+            type="text"
+            class="form-control"
+            placeholder="Kullanıcı Adı"
+          />
+          <span
+            *ngIf="
+              (loginFormControl.username.touched || submitted) &&
+              loginFormControl.username.errors?.required
+            "
+            style="color: red; margin-top: 0.5%"
+          >
+            Kullanıcı adı zorunludur.
+          </span>
+          <span
+            *ngIf="
+              (loginFormControl.username.touched || submitted) &&
+              loginFormControl.username.errors?.maxlength
+            "
+            style="color: red; margin-top: 0.5%"
+          >
+            Kullanıcı adı en fazla 25 karakter olabilir.
+          </span>
+        </div>
+        <div class="form-group">
+          <label>Şifre*</label>
+          <input
+            formControlName="password"
+            type="password"
+            class="form-control"
+            placeholder="Şifre"
+          />
+          <span
+            *ngIf="
+              (loginFormControl.password.touched || submitted) &&
+              loginFormControl.password.errors?.required
+            "
+            style="color: red; margin-top: 0.5%"
+          >
+            Şifre zorunludur.
+          </span>
+          <span
+            *ngIf="
+              (loginFormControl.password.touched || submitted) &&
+              loginFormControl.password.errors?.maxlength
+            "
+            style="color: red; margin-top: 0.5%"
+          >
+            Şifre en fazla 25 karakter olabilir.
+          </span>
+        </div>
+        <div class="form-group"></div>
+        <div *ngIf="errorMessage" class="alert alert-danger">
+          {{ errorMessage }}
+        </div>
+        <button type="submit" class="btn btn-primary">Giriş Yap</button>
+      </form>
+    </div>
+  </div>
+</div>

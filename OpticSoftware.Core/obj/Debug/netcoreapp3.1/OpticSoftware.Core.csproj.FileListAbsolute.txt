@@ -1,0 +1,14 @@
+C:\Users\Samet Şentürk\source\repos\OpticSoftware\OpticSoftware.Core\bin\Debug\netcoreapp3.1\OpticSoftware.Core.deps.json
+C:\Users\Samet Şentürk\source\repos\OpticSoftware\OpticSoftware.Core\bin\Debug\netcoreapp3.1\OpticSoftware.Core.dll
+C:\Users\Samet Şentürk\source\repos\OpticSoftware\OpticSoftware.Core\bin\Debug\netcoreapp3.1\OpticSoftware.Core.pdb
+C:\Users\Samet Şentürk\source\repos\OpticSoftware\OpticSoftware.Core\obj\Debug\netcoreapp3.1\OpticSoftware.Core.csprojAssemblyReference.cache
+C:\Users\Samet Şentürk\source\repos\OpticSoftware\OpticSoftware.Core\obj\Debug\netcoreapp3.1\OpticSoftware.Core.AssemblyInfoInputs.cache
+C:\Users\Samet Şentürk\source\repos\OpticSoftware\OpticSoftware.Core\obj\Debug\netcoreapp3.1\OpticSoftware.Core.AssemblyInfo.cs
+C:\Users\Samet Şentürk\source\repos\OpticSoftware\OpticSoftware.Core\obj\Debug\netcoreapp3.1\OpticSoftware.Core.csproj.CoreCompileInputs.cache
+C:\Users\Samet Şentürk\source\repos\OpticSoftware\OpticSoftware.Core\obj\Debug\netcoreapp3.1\OpticSoftware.Core.dll
+C:\Users\Samet Şentürk\source\repos\OpticSoftware\OpticSoftware.Core\obj\Debug\netcoreapp3.1\OpticSoftware.Core.pdb
+C:\Users\Samet Şentürk\source\repos\OpticSoftware\OpticSoftware.Core\bin\Debug\netcoreapp3.1\OpticSoftware.Entity.dll
+C:\Users\Samet Şentürk\source\repos\OpticSoftware\OpticSoftware.Core\bin\Debug\netcoreapp3.1\OpticSoftware.Enums.dll
+C:\Users\Samet Şentürk\source\repos\OpticSoftware\OpticSoftware.Core\bin\Debug\netcoreapp3.1\OpticSoftware.Entity.pdb
+C:\Users\Samet Şentürk\source\repos\OpticSoftware\OpticSoftware.Core\bin\Debug\netcoreapp3.1\OpticSoftware.Enums.pdb
+C:\Users\Samet Şentürk\source\repos\OpticSoftware\OpticSoftware.Core\obj\Debug\netcoreapp3.1\OpticSoftware.Core.csproj.CopyComplete

@@ -1,0 +1,16 @@
+<div *ngIf="router.url !== '/auth/login'" id="main">
+  <app-profile-tab></app-profile-tab>
+  <app-menu></app-menu>
+
+  <div class="content-page">
+    <div class="content">
+      <div class="container-fluid">
+        <router-outlet></router-outlet>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div *ngIf="router.url === '/auth/login'">
+  <router-outlet></router-outlet>
+</div>

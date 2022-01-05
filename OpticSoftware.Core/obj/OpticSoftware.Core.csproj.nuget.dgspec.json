@@ -1,0 +1,205 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Samet Şentürk\\source\\repos\\OpticSoftware\\OpticSoftware.Core\\OpticSoftware.Core.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Samet Şentürk\\source\\repos\\OpticSoftware\\OpticSoftware.Core\\OpticSoftware.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Samet Şentürk\\source\\repos\\OpticSoftware\\OpticSoftware.Core\\OpticSoftware.Core.csproj",
+        "projectName": "OpticSoftware.Core",
+        "projectPath": "C:\\Users\\Samet Şentürk\\source\\repos\\OpticSoftware\\OpticSoftware.Core\\OpticSoftware.Core.csproj",
+        "packagesPath": "C:\\Users\\Samet Şentürk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Samet Şentürk\\source\\repos\\OpticSoftware\\OpticSoftware.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Samet Şentürk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Samet Şentürk\\source\\repos\\OpticSoftware\\OpticSoftware.Entity\\OpticSoftware.Entity.csproj": {
+                "projectPath": "C:\\Users\\Samet Şentürk\\source\\repos\\OpticSoftware\\OpticSoftware.Entity\\OpticSoftware.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Samet Şentürk\\source\\repos\\OpticSoftware\\OpticSoftware.Entity\\OpticSoftware.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Samet Şentürk\\source\\repos\\OpticSoftware\\OpticSoftware.Entity\\OpticSoftware.Entity.csproj",
+        "projectName": "OpticSoftware.Entity",
+        "projectPath": "C:\\Users\\Samet Şentürk\\source\\repos\\OpticSoftware\\OpticSoftware.Entity\\OpticSoftware.Entity.csproj",
+        "packagesPath": "C:\\Users\\Samet Şentürk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Samet Şentürk\\source\\repos\\OpticSoftware\\OpticSoftware.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Samet Şentürk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Samet Şentürk\\source\\repos\\OpticSoftware\\OpticSoftware.Enums\\OpticSoftware.Enums.csproj": {
+                "projectPath": "C:\\Users\\Samet Şentürk\\source\\repos\\OpticSoftware\\OpticSoftware.Enums\\OpticSoftware.Enums.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.11, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[3.1.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Samet Şentürk\\source\\repos\\OpticSoftware\\OpticSoftware.Enums\\OpticSoftware.Enums.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Samet Şentürk\\source\\repos\\OpticSoftware\\OpticSoftware.Enums\\OpticSoftware.Enums.csproj",
+        "projectName": "OpticSoftware.Enums",
+        "projectPath": "C:\\Users\\Samet Şentürk\\source\\repos\\OpticSoftware\\OpticSoftware.Enums\\OpticSoftware.Enums.csproj",
+        "packagesPath": "C:\\Users\\Samet Şentürk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Samet Şentürk\\source\\repos\\OpticSoftware\\OpticSoftware.Enums\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Samet Şentürk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

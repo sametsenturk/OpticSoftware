@@ -1,0 +1,12 @@
+C:\Users\Samet Şentürk\source\repos\OpticSoftware\OpticSoftware.Authentication\bin\Debug\netcoreapp3.1\OpticSoftware.Authentication.deps.json
+C:\Users\Samet Şentürk\source\repos\OpticSoftware\OpticSoftware.Authentication\bin\Debug\netcoreapp3.1\OpticSoftware.Authentication.dll
+C:\Users\Samet Şentürk\source\repos\OpticSoftware\OpticSoftware.Authentication\bin\Debug\netcoreapp3.1\OpticSoftware.Authentication.pdb
+C:\Users\Samet Şentürk\source\repos\OpticSoftware\OpticSoftware.Authentication\bin\Debug\netcoreapp3.1\OpticSoftware.Enums.dll
+C:\Users\Samet Şentürk\source\repos\OpticSoftware\OpticSoftware.Authentication\bin\Debug\netcoreapp3.1\OpticSoftware.Enums.pdb
+C:\Users\Samet Şentürk\source\repos\OpticSoftware\OpticSoftware.Authentication\obj\Debug\netcoreapp3.1\OpticSoftware.Authentication.csprojAssemblyReference.cache
+C:\Users\Samet Şentürk\source\repos\OpticSoftware\OpticSoftware.Authentication\obj\Debug\netcoreapp3.1\OpticSoftware.Authentication.AssemblyInfoInputs.cache
+C:\Users\Samet Şentürk\source\repos\OpticSoftware\OpticSoftware.Authentication\obj\Debug\netcoreapp3.1\OpticSoftware.Authentication.AssemblyInfo.cs
+C:\Users\Samet Şentürk\source\repos\OpticSoftware\OpticSoftware.Authentication\obj\Debug\netcoreapp3.1\OpticSoftware.Authentication.csproj.CoreCompileInputs.cache
+C:\Users\Samet Şentürk\source\repos\OpticSoftware\OpticSoftware.Authentication\obj\Debug\netcoreapp3.1\OpticSoftware.Authentication.csproj.CopyComplete
+C:\Users\Samet Şentürk\source\repos\OpticSoftware\OpticSoftware.Authentication\obj\Debug\netcoreapp3.1\OpticSoftware.Authentication.dll
+C:\Users\Samet Şentürk\source\repos\OpticSoftware\OpticSoftware.Authentication\obj\Debug\netcoreapp3.1\OpticSoftware.Authentication.pdb

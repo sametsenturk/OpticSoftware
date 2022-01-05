@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OpticSoftware.Authentication\OpticSoftware.Authentication.csproj" />
+    <ProjectReference Include="..\OpticSoftware.Constans\OpticSoftware.Constans.csproj" />
+    <ProjectReference Include="..\OpticSoftware.DAL\OpticSoftware.DAL.csproj" />
+    <ProjectReference Include="..\OpticSoftware.Entity\OpticSoftware.Entity.csproj" />
+    <ProjectReference Include="..\OpticSoftware.Enums\OpticSoftware.Enums.csproj" />
+    <ProjectReference Include="..\OpticSoftware.Extensions\OpticSoftware.Extensions.csproj" />
+    <ProjectReference Include="..\OpticSoftware.Models\OpticSoftware.Models.csproj" />
+    <ProjectReference Include="..\OpticSoftware.Security\OpticSoftware.Security.csproj" />
+  </ItemGroup>
+
+</Project>

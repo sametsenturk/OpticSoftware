@@ -1,0 +1,9 @@
+C:\Users\Samet Şentürk\source\repos\OpticSoftware\OpticSoftware.Extensions\bin\Debug\netcoreapp3.1\OpticSoftware.Extensions.deps.json
+C:\Users\Samet Şentürk\source\repos\OpticSoftware\OpticSoftware.Extensions\bin\Debug\netcoreapp3.1\OpticSoftware.Extensions.dll
+C:\Users\Samet Şentürk\source\repos\OpticSoftware\OpticSoftware.Extensions\bin\Debug\netcoreapp3.1\OpticSoftware.Extensions.pdb
+C:\Users\Samet Şentürk\source\repos\OpticSoftware\OpticSoftware.Extensions\obj\Debug\netcoreapp3.1\OpticSoftware.Extensions.csprojAssemblyReference.cache
+C:\Users\Samet Şentürk\source\repos\OpticSoftware\OpticSoftware.Extensions\obj\Debug\netcoreapp3.1\OpticSoftware.Extensions.AssemblyInfoInputs.cache
+C:\Users\Samet Şentürk\source\repos\OpticSoftware\OpticSoftware.Extensions\obj\Debug\netcoreapp3.1\OpticSoftware.Extensions.AssemblyInfo.cs
+C:\Users\Samet Şentürk\source\repos\OpticSoftware\OpticSoftware.Extensions\obj\Debug\netcoreapp3.1\OpticSoftware.Extensions.csproj.CoreCompileInputs.cache
+C:\Users\Samet Şentürk\source\repos\OpticSoftware\OpticSoftware.Extensions\obj\Debug\netcoreapp3.1\OpticSoftware.Extensions.dll
+C:\Users\Samet Şentürk\source\repos\OpticSoftware\OpticSoftware.Extensions\obj\Debug\netcoreapp3.1\OpticSoftware.Extensions.pdb

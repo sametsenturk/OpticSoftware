@@ -1,0 +1,9 @@
+C:\Users\Samet Şentürk\source\repos\OpticSoftware\OpticSoftware.Constans\bin\Debug\netcoreapp3.1\OpticSoftware.Constans.deps.json
+C:\Users\Samet Şentürk\source\repos\OpticSoftware\OpticSoftware.Constans\bin\Debug\netcoreapp3.1\OpticSoftware.Constans.dll
+C:\Users\Samet Şentürk\source\repos\OpticSoftware\OpticSoftware.Constans\bin\Debug\netcoreapp3.1\OpticSoftware.Constans.pdb
+C:\Users\Samet Şentürk\source\repos\OpticSoftware\OpticSoftware.Constans\obj\Debug\netcoreapp3.1\OpticSoftware.Constans.csprojAssemblyReference.cache
+C:\Users\Samet Şentürk\source\repos\OpticSoftware\OpticSoftware.Constans\obj\Debug\netcoreapp3.1\OpticSoftware.Constans.AssemblyInfoInputs.cache
+C:\Users\Samet Şentürk\source\repos\OpticSoftware\OpticSoftware.Constans\obj\Debug\netcoreapp3.1\OpticSoftware.Constans.AssemblyInfo.cs
+C:\Users\Samet Şentürk\source\repos\OpticSoftware\OpticSoftware.Constans\obj\Debug\netcoreapp3.1\OpticSoftware.Constans.csproj.CoreCompileInputs.cache
+C:\Users\Samet Şentürk\source\repos\OpticSoftware\OpticSoftware.Constans\obj\Debug\netcoreapp3.1\OpticSoftware.Constans.dll
+C:\Users\Samet Şentürk\source\repos\OpticSoftware\OpticSoftware.Constans\obj\Debug\netcoreapp3.1\OpticSoftware.Constans.pdb
